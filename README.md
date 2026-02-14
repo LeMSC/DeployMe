@@ -29,7 +29,7 @@ L’objectif n’est pas seulement d’installer un système d’exploitation, m
 
 👉 Aucune action utilisateur requise pendant l’installation.
 
-📘 **Documentation complète** : voir `README-full_FR.md`
+📘 **Documentation complète** : voir [README-full_FR.md](https://help.semmle.com/codeql/codeql-for-vscode.html)
 
 ---
 
@@ -56,7 +56,7 @@ The goal is not only to install an operating system, but to **deliver a fully op
 4. System reboots ready for use
 ```
 
-📘 **Full documentation**: see `README-full_US.md`
+📘 **Full documentation**: see [README-full_US.md](https://help.semmle.com/codeql/codeql-for-vscode.html)
 
 ---
 
