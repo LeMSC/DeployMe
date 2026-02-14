@@ -68,7 +68,7 @@ The goal is not only to install an operating system, but to **deliver a fully op
 4. System reboots ready for use
 ```
 
-👉 **No human interaction is required during the installation phase.**
+👉 No human interaction is required during the installation phase.
 ---
 
 # 🧩 Part I – PXE infrastructure setup
