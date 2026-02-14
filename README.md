@@ -29,7 +29,7 @@ L’objectif n’est pas seulement d’installer un système d’exploitation, m
 
 👉 Aucune action utilisateur requise pendant l’installation.
 
-📘 **Documentation complète** : voir [README-full_FR.md](https://help.semmle.com/codeql/codeql-for-vscode.html)
+📘 **Documentation complète** : voir [README-full_FR.md](https://github.com/LeMSC/DeployMe/blob/main/README-full_FR.md)
 
 ---
 
