@@ -1,0 +1,23 @@
+UI vesamenu.c32
+MENU TITLE PXE BOOT MENU
+MENU BACKGROUND fond.png
+PROMPT 0
+TIMEOUT 100
+ONTIMEOUT LOCAL
+
+MENU COLOR TABMSG  37;40  #ffffffff #00000000
+MENU COLOR TITLE   37;40  #ffffffff #00000000
+MENU COLOR SEL      7     #ffffffff #00000000
+MENU COLOR UNSEL    37;40 #ffffffff #00000000
+MENU COLOR BORDER   37;40 #ffffffff #00000000
+
+LABEL UBUNTU_DESKTOP_25_10
+        MENU LABEL ^1 UBUNTU DESKTOP 25.10
+        kernel /boot/casper/vmlinuz
+        append nfsroot=192.168.1.5:/var/www/html/desktop/u2510 netboot=nfs ip=dhcp boot=casper initrd=/boot/casper/initrd
+
+LABEL LOCAL
+        MENU LABEL ^2 BOOT FROM LOCAL DISK
+        MENU DEFAULT
+        kernel chain.c32
+        append hd0
