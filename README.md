@@ -29,7 +29,19 @@ L’objectif n’est pas seulement d’installer un système d’exploitation, m
 
 👉 Aucune action utilisateur requise pendant l’installation.
 
-📘 **Documentation complète** : voir [README-full_FR.md](https://github.com/LeMSC/DeployMe/blob/main/README-full_FR.md)
+---
+
+## 🧩 Partie I – Mise en place de l’infrastructure PXE
+
+Cette première partie couvre la **mise en place complète de l’infrastructure PXE**, jusqu’à l’affichage d’un menu permettant de lancer une **installation manuelle de l’OS**.
+
+📘 **Documentation complète de la partie I** : voir [README-full_FR.md](https://github.com/LeMSC/DeployMe/blob/main/README-full_FR.md)
+
+La **Partie II** (à venir) traitera de l’industrialisation complète de l’installation (mode automatique et silencieux).
+
+---
+
+
 
 ---
 
