@@ -67,8 +67,15 @@ The goal is not only to install an operating system, but to **deliver a fully op
 3. Installation runs unattended
 4. System reboots ready for use
 ```
+---
 
-📘 **Full documentation**: see [README-full_US.md](https://github.com/LeMSC/DeployMe/blob/main/README-full_US.md)
+# 🧩 Part I – PXE infrastructure setup
+
+This first part covers the **complete setup of the PXE infrastructure**, up to the point where a menu allows launching a **manual operating system installation**.
+
+📘 **Part I Full documentation**: see [README-full_US.md](https://github.com/LeMSC/DeployMe/blob/main/README-full_US.md)
+
+**Part II** will focus on fully industrialized deployment (unattended and silent installation).
 
 ---
 
