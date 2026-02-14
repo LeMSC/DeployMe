@@ -56,7 +56,7 @@ The goal is not only to install an operating system, but to **deliver a fully op
 4. System reboots ready for use
 ```
 
-📘 **Full documentation**: see [README-full_US.md](https://help.semmle.com/codeql/codeql-for-vscode.html)
+📘 **Full documentation**: see [README-full_US.md](https://github.com/LeMSC/DeployMe/blob/main/README-full_US.md)
 
 ---
 
