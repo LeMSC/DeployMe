@@ -1,6 +1,6 @@
 # 🚀 Industrial deployment of Linux workstations via PXE
 
-> **Complete documentation – from PXE architecture to manual and automated installation**
+> **Automated provisioning of Linux workstations, from power-up to ongoing compliance**
 
 ---
 
