@@ -1,6 +1,7 @@
-# 🚀 Déploiement industriel de postes Linux via PXE / 🚀 Industrial deployment of Linux workstations via PXE
+# 🚀 Déploiement industriel de postes Linux via PXE   
+# 🚀 Industrial deployment of Linux workstations via PXE
 
-> **Provisioning automatisé de postes Linux, de l’allumage à la conformité continue**
+> **Provisioning automatisé de postes Linux, de l’allumage à la conformité continue**  
 > **Complete documentation – from PXE architecture to manual and automated installation**
 
 ---
